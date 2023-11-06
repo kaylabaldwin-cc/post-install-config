@@ -39,7 +39,7 @@ Log in to virtual machine (Windows) through Remote Desktop
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JPGXgH1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure rolls, departments & teams
@@ -47,9 +47,9 @@ Configure rolls, departments & teams
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/b6tDVfv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure help topics
+Add SLA (severity) plan
 </p>
 <br />
