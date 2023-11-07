@@ -15,6 +15,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -25,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 -Log in to Azure virtual machine (Windows 10) through Remote Desktop
 - Configure rolls, departments & teams
 - Allow anyone (employees) to create tickets
-- Configure agents, users & SLA (severity)
+- Configure agents, users & SLA
 - Configure help topics
 
 <h2>Configuration Steps</h2>
@@ -34,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/8Cmk3rn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in to virtual machine (Windows) through Remote Desktop
+Create resource group then virtual machine (Windows 10). Log in to virtual machine with Remote Desktop through VM's public IP address.
 </p>
 <br />
 
@@ -42,7 +43,7 @@ Log in to virtual machine (Windows) through Remote Desktop
 <img src="https://i.imgur.com/JPGXgH1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure rolls, departments & teams
+Log in to osTicket, click admin and configure rolls, departments & teams.
 </p>
 <br />
 
@@ -50,6 +51,7 @@ Configure rolls, departments & teams
 <img src="https://i.imgur.com/b6tDVfv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Add SLA (severity) plan
+Add SLA plan: Sev-A (1 hour, 24/7). Sev-B (4 hours, 24/7). Sev-C (8 hours, business hours).
+
 </p>
 <br />
