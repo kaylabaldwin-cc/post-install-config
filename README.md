@@ -23,11 +23,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
--Log in to Azure virtual machine (Windows 10) through Remote Desktop
+- Log in to Azure virtual machine (Windows 10) through Remote Desktop
 - Configure rolls, departments & teams
 - Allow anyone (employees) to create tickets
 - Configure agents, users & SLA
-- Configure help topics
 
 <h2>Configuration Steps</h2>
 
@@ -43,7 +42,7 @@ Create resource group then virtual machine (Windows 10). Log in to virtual machi
 <img src="https://i.imgur.com/JPGXgH1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in to osTicket, click admin and configure rolls, departments & teams.
+Log in to osTicket, click admin and configure rolls, departments & teams, which allows employees to create tickets.
 </p>
 <br />
 
