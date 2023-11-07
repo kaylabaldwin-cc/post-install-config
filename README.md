@@ -42,7 +42,7 @@ Create resource group then virtual machine (Windows 10). Log in to virtual machi
 <img src="https://i.imgur.com/JPGXgH1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in to osTicket, click admin and configure rolls, departments & teams, which allows employees to create tickets.
+Log into osTicket, click admin and configure rolls, departments & teams, which allows employees to create tickets.
 </p>
 <br />
 
